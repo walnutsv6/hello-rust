@@ -1,7 +1,7 @@
 [package]
 name = "hello-rust"
 version = "0.1.0"
-authors = ["lyz_t_miyahara <miyahara@lyzon.co.jp>"]
+authors = ["walnutsv6 <miyahara.tomofumi@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
